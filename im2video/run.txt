@@ -1,1 +1,1 @@
-1
+ python demo.py  --config .\config\vox-adv-256.yaml --driving_video .\import.mp4 --source_image .\pdd.jpg --checkpoint .\model\vox-adv-cpk.pth.tar --relative --adapt_scale
